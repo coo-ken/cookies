@@ -5,6 +5,8 @@ Bahan bahan nya nih
 
 
 pkg update && pkg upgrade && pkg install python && pkg install python2 && pkg install php && pkg install python git && pkg install bash && pkg install git && pip2 install mechanize && pip2 install requests && pip2 install requests bs4   
+
+
 =========================================
 
 Kalo ngak bisa pake yang manual aja nih
@@ -16,6 +18,8 @@ pkg install bash
 pkg install git
 pip2 install mechanize
 git clone ada di video
+
+
 =========================================
 
 Subscribe my Chanel IMGAMING
